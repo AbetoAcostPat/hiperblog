@@ -1,1 +1,4 @@
 Esta es la historia de Beto tratando de aprende Git
+
+ya tengo 40 años
+con ganas de arrancar nuevamente en el mundo de la programación
